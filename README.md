@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roger Torres</h1>
 <h3 align="center">A passionate mobile developer from Guadalajara, Jal. México</h3>
 
-- 🔭 I’m currently working on [Unidapp](https://play.google.com/store/apps/details?id=com.unidapp.mx&hl=es_MX)
+- 🔭 I’m currently working on [Unidapp](https://play.google.com/store/apps/details?id=com.unidapp.mx&hl=es_MX) and a CMS based in strapi to Seguridad en América
 
 - 🌱 I’m currently learning **Python and DevOps technologies**
 
