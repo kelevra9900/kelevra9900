@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Roger Torres</h1>
+
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hi%20👋,%20I'm%20Roger%20Torres&height=250&fontSize=60&textBg=false)
 <h3 align="center">A passionate mobile developer from Guadalajara, Jal. México</h3>
 
 <div align="center">
