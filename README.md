@@ -21,7 +21,9 @@
   <img src="https://github.com/Matrix278/Matrix278/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px height=32px> 
+</h2>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/rogelio-torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
   <a href="https://fb.com/nitram278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitram278" height="30" width="40" /></a>
