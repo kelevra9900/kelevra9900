@@ -26,7 +26,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rogelio-torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
-  <a href="https://fb.com/nitram278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitram278" height="30" width="40" /></a>
   <a href="https://medium.com/@torresroger445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kelevra9900" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/10791481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11167914" height="30" width="40" /></a>
 </p>
