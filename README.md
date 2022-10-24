@@ -7,7 +7,7 @@
   <a href="https://www.buymeacoffee.com/torresroger"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="kelevra9900" /></a>
 </div>
 
-- 🔭 I’m currently working in **SISSA Digital**
+- 🔭 I’m currently working in **Butchershop**
 
 - 🌱 I’m currently learning **Python language, PostgreSQL, AWS, Microservices**
 
