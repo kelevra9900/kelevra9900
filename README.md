@@ -21,9 +21,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github.com/Matrix278/Matrix278/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
-</div>
+![Image](https://github.com/kelevra9900/kelevra9900/blob/main/images/ocean.gif)
 
 <br/>
 
