@@ -1,71 +1,39 @@
-![Banner](https://github.com/kelevra9900/kelevra9900/blob/main/images/banner.gif)
 
+![presentation](https://github.com/kelevra9900/kelevra9900/blob/main/images/banner.gif)
 <h2 align="center">Senior Mobile & Frontend Engineer | React Native Expert ⚛️</h2>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kelevra9900&label=Profile%20views&color=48c030&style=flat" height="25" alt="profile views" />
-  <a href="https://www.buymeacoffee.com/torresroger">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" alt="Buy me a coffee" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kelevra9900&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="matrix278" />
+  <a href="https://www.buymeacoffee.com/torresroger"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="kelevra9900" /></a>
 </div>
-
-<br/>
 
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working as a **Senior Mobile Engineer at DRIVANA**.
 - 🚀 I have **10+ years of experience** building high-performance applications in SaaS and logistics sectors.
 - 🌱 I’m currently focusing on **Scalable Architecture, CI/CD Pipelines, and Offline-first strategies**.
-- 💼 Check out my portfolio at [roger-torres.dev](https://www.roger-torres.dev/).
-- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/rogelio-torres/) | [Facebook](https://www.facebook.com/kelevra9900) | [Email](mailto:torresroger445@gmail.com)
-
-<br/>
-
-![Image](https://github.com/kelevra9900/kelevra9900/blob/main/images/ocean.gif)
-
-<br/>
-
-### 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-**Mobile & Core**<br/>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
-<a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-
-**Architecture & DevOps**<br/>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github actions" width="40" height="40"/></a>
-<a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-
-**Languages**<br/>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-
-</div>
-
-<br/>
-
-### 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kelevra9900&show_icons=true&theme=radical" alt="Roger's Stats" height="180" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelevra9900&layout=compact&theme=radical" alt="Roger's Top Languages" height="180" />
-  </a>
-</div>
-
-<br/>
+- 💼 Check out my portfolio at [roger-torres.dev](https://portfolio-v2-lime-omega.vercel.app).
+- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/rogelio-torres/) | [Email](mailto:torresroger445@gmail.com)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rogelio-torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://medium.com/@torresroger445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/10791481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
+  <img src="https://github.com/kelevra9900/kelevra9900/blob/main/images/ocean.gif" alt="snake">
 </p>
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px height=32px> 
+</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rogelio-torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
+  <a href="https://medium.com/@torresroger445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kelevra9900" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/10791481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11167914" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</p>
+
+<div align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+      <img src="https://streak-stats.demolab.com/?user=kelevra9900&theme=dark" alt="Streak Stats" />
+    </a>
+</div>
