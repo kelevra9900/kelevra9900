@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=kelevra9900&theme=radical&show_icons=true&locale=en" alt="Martin's github stats" />
+    <img src="[https://github-readme-stats.vercel.app/api?username=kelevra9900&theme=radical&show_icons=true&locale=en" alt="Roger's github stats" />
   </a>
   
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
