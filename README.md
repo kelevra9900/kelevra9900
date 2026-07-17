@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working as a **Senior Mobile Engineer**.
-- 🚀 I have **10+ years of experience** building high-performance applications in SaaS and logistics sectors.
+- 🚀 I have **8+ years of experience** building high-performance applications in SaaS and logistics sectors.
 - 🌱 I’m currently focusing on **Scalable Architecture, CI/CD Pipelines, and Offline-first strategies**.
 - 💼 Check out my portfolio at [roger-torres.dev](https://portfolio-v2-lime-omega.vercel.app).
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/rogelio-torres/) | [Email](mailto:torresroger445@gmail.com)
