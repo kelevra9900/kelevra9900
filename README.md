@@ -8,10 +8,9 @@
   ━━━━━━━ ★ ━━━━━━━
 </p>
 
-<!-- Subtítulo de Idiomas / Perfil -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SPANISH-NATIVE-3b82f6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ENGLISH-B2%2FC1-3b82f6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPANISH-🇲🇽%20NATIVE-3b82f6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENGLISH-🇺🇸%20B2%2FC1-3b82f6?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
@@ -20,13 +19,11 @@
 
 ---
 
-<!-- Bloque Lado a Lado: Stats + Idiomas/Top Dev Tools -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kelevra9900&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelevra9900&layout=compact&theme=tokyonight&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kelevra9900&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kelevra9900&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
-<!-- Gráfico de Contribuciones Estilo Curva -->
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kelevra9900&theme=react-dark&hide_border=false" />
 </p>
@@ -37,12 +34,10 @@
   ━━━━━━━ ★ ━━━━━━━
 </p>
 
-<!-- Iconos de Tecnologías Estilizados -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,ts,docker,graphql,firebase,tailwind,postgres,mongodb,figma,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,docker,graphql,firebase,tailwind,postgres,mongodb,figma,python&theme=dark" />
 </p>
 
-<!-- Lista de Herramientas Extendida -->
 <p align="center">
   <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
   <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
@@ -52,7 +47,6 @@
 
 <h2 align="center">Let's Connect!</h2>
 
-<!-- Botones de Redes y Portafolio -->
 <p align="center">
   <a href="https://www.linkedin.com/in/rogelio-torres/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:torresroger445@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -67,9 +61,8 @@
   </a>
 </p>
 
-<!-- Racha / Streak Stats Tarjeta Inferior -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelevra9900&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=kelevra9900&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
